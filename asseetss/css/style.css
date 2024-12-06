@@ -1,0 +1,18 @@
+form{
+    margin: 50px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    border: 1px solid black;
+    width: 500px;
+}
+input{
+    outline: none;
+}
+p{
+    color: red;
+}
+.error__input{
+    border: 1px solid red;
+}
